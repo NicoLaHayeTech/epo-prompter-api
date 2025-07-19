@@ -4,11 +4,10 @@
     "category": "Clarity",
     "label": "Linguistic Issues",
     "prompt": "Please identify linguistic issues in the claims..."
-  }
-
+  },
 
  {
-    "number": 2,
+   "number": 2,
     "category": "Food",
     "label": "Health",
     "prompt": "What are the health benefits of blueberries?"
