@@ -15,7 +15,7 @@
 
    {
     "category": "Coding",
-   "description" : "This prompt is designed to debug you program. Unfortunately it does not work very well.",
+   "description" : "This prompt is designed to debug you program. Unfortunately it does not work very well.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
     "label": "Debug",
     "prompt": "Debug the following program"
   }
