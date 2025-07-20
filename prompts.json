@@ -1,21 +1,21 @@
 [
   {
-    "number": 1,
     "category": "Clarity",
+    "description" : "This prompt tackles severe linguistiv issues",
     "label": "Linguistic Issues",
     "prompt": "Please identify linguistic issues in the claims..."
   },
 
  {
-   "number": 2,
     "category": "Food",
+     "description" : "This prompt tells you everything about the health benefits of blueberries.",
     "label": "Health",
     "prompt": "What are the health benefits of blueberries?"
   },
 
    {
-   "number": 3,
     "category": "Coding",
+   "description" : "This prompt is designed to debug you program. Unfortunately it does not work very well.",
     "label": "Debug",
     "prompt": "Debug the following program"
   }
