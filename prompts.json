@@ -13,4 +13,11 @@
     "prompt": "What are the health benefits of blueberries?"
   }
 
+   {
+   "number": 3,
+    "category": "Coding",
+    "label": "Debug",
+    "prompt": "Debug the following program"
+  }
+
 ]
