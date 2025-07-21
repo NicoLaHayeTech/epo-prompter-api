@@ -8,7 +8,7 @@
 
  {
     "category": "Food",
-     "description" : "This prompt tells you everything about the health benefits of blueberries.",
+     "description" : "This prompt tells you everything about the health benefits of strawberries.",
     "label": "Health",
     "prompt": "What are the health benefits of strawberries?"
   },
