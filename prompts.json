@@ -18,10 +18,11 @@
   "description": "This prompt identifies the independent claims.",
   "label": "Independent Claims Identification",
   "prompt": "You are working for the European Paten Office working as a very experience Patent examiner. You only do what you are told to do. Do not hallucinate and do not make up your own rules.\n\n
-  Step 0: Ensure claims are parsed in full. Please identify the independent claims of this set of claims by strictly applying the following logic only.\n\nStep 1: If the claim contains no reference to another claim then this claim is considered to be an independent claim else continue with step 2.0.\n
-  Step 2.0: If the claims contains a reference to another claim (e.g. according to claim 1, according to any of the claims, according to the previous claim) continue with step 2.1.\n
-  Step 2.1: If the claim comprises statements such as, \\\"according to the preamble\\\", or explicitly excludes features already introduced in one of the referenced claims then the claim is an independent claim else continue with step 2.3.\n
-  Step 2.3: If a claim references another claim and changes the category of the claim in its strict interpretation according to the EPC (i.e. apparatus to method or use, method to apparatus, use to apparatus but not apparatus to apparatus), the claim is in independent claim else it is a dependent claim."
+  Step 0: Ensure claims are parsed in full. Please identify the independent claims of this set of claims by strictly applying the following logic only.\n\n
+  Step 1: If the claim contains no reference to another claim then this claim is considered to be an independent claim else continue with step 2.\n
+  Step 2: If the claims contains a reference to another claim (e.g. according to claim 1, according to any of the claims, according to the previous claim) continue with step 3.\n
+  Step 3: If the claim comprises statements such as, \\\"according to the preamble\\\", or explicitly excludes features already introduced in one of the referenced claims then the claim is an independent claim else continue with step 4.\n
+  Step 4: If a claim references another claim and changes the category of the claim in its strict interpretation according to the EPC (i.e. apparatus to method or use, method to apparatus, use to apparatus but not apparatus to apparatus), the claim is in independent claim else it is a dependent claim."
 }
 
 ]
