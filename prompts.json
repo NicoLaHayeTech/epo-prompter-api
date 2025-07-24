@@ -1,9 +1,15 @@
 [
   {
-    "category": "Clarity",
-    "description" : "This prompt tackles severe linguistiv issues",
-    "label": "Linguistic Issues",
-    "prompt": "Please identify linguistic issues in the claims..."
+    "category": "Drafting",
+    "description" : "This prompt tackles severe linguistic issues",
+    "label": "Linguistic erros",
+    "prompt": "Step 1: Once the set of claims is provided, read the set of claims thoroughly and continue with step 2. 
+
+Step 2: Read and identify spelling and typical grammatical mistakes. For the grammatical mistakes focus only on subject-verb agreement errors and wrongly used prepositions.
+
+Step 3: If mistakes are found, list them in a first column and indicate on which page and which line the mistake is found in a second column. In a third column provide a proposed solution and in fourth column indicate how severe the mistake is.
+
+If no mistake is found, state “No spelling and/or grammar mistakes found”."
   },
 
  {
