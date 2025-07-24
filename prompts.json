@@ -3,13 +3,7 @@
     "category": "Drafting",
     "description" : "This prompt tackles severe linguistic issues",
     "label": "Linguistic erros",
-    "prompt": "Step 1: Once the set of claims is provided, read the set of claims thoroughly and continue with step 2. 
-
-Step 2: Read and identify spelling and typical grammatical mistakes. For the grammatical mistakes focus only on subject-verb agreement errors and wrongly used prepositions.
-
-Step 3: If mistakes are found, list them in a first column and indicate on which page and which line the mistake is found in a second column. In a third column provide a proposed solution and in fourth column indicate how severe the mistake is.
-
-If no mistake is found, state “No spelling and/or grammar mistakes found”."
+    "prompt": "Step 0: Ask the user to provide a document or text passage.\nStep 1: Once the document or text passage is provided, read it thoroughly and continue with step 2.\nStep 2: Read and identify spelling and typical grammatical mistakes. For the grammatical mistakes focus only on subject-verb agreement errors and wrongly used prepositions.\nStep 3: If mistakes are found, list them in a first column and indicate on which page and which line the mistake is found in a second column. In a third column provide a proposed solution and in fourth column indicate how severe the mistake is.\nIf no mistake is found, state \\\“No spelling and/or grammar mistakes found\\\”."
   },
 
  {
